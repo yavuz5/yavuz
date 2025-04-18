@@ -1,9 +1,6 @@
 #import webbrowser
 
 print(('\033[92m—'*25)+'\n• DeCoDe By @TN602•\n'+('—'*25))
-import datetime;now = datetime.date.today();target = datetime.date(2025,4,14,)
-if now >=target:exit("توقفت الاداة لان ماكو صور انتضرني اجددها")
-else:print("\033[1;31mبحقوق عمك يافوز 🇮🇶")
 import webbrowser
 webbrowser.open('https://t.me/TN602')
 h='YAVUZ-i'
